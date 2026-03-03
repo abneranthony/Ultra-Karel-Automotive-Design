@@ -1,0 +1,4 @@
+1. We will make a car, a person, a karel.
+2. To paint a digital image using UltraKarel.
+3. makeWheel, makeWindow, makeTorso.
+4. A few days.

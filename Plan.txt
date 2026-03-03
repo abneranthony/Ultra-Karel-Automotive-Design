@@ -1,0 +1,6 @@
+1. Write code to make a blue background (10 minutes - Partner 1)
+2. Write code to make the car wheels (20 minutes - Partner 1)
+3. Write code to make the body of the car (20 minutes - Partner 2)
+4. Write code to make the windows (20 minutes - Partner 1)
+5. Write code to make the dorrs (20 minutes - Partner 2)
+6. Put all code together and test it (10 minutes - Partner 2)

@@ -1,0 +1,25 @@
+Program Documentation:
+
+
+Program Title - Sports Car Digital Painting
+This program makes Ultra Karel paint a sports car on a blue background
+
+
+Name of Function - paintBlueBackground();
+This function paints a blue background over the world.
+
+//Paints a blue background over the world.
+function makeCyanBackground(){
+    while(leftIsClear()){
+        makeRow();
+        flipLeft();
+        makeRow();
+        if(rightIsClear()){
+            flipRight();
+        } else {
+            turnAround();
+        }
+    }
+}
+Acknowledgement:
+Portions of this program include functions developed by CodeHS.

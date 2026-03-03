@@ -1,0 +1,58 @@
+Milestone 1: Make Karel paint a blue background
+    to paint a blue background:
+        While left is clear:
+            Paint a row
+            Flip left
+            Paint a row
+            If Right is clear
+                Flip Right
+        paint a row
+Milestone 2: Make Karel paint the wheels
+    to paint car wheels
+        turn right
+        move
+        turn left
+        move
+            paint car wheel 1
+            move 6 times
+            paint car wheel
+}
+Milestone 3:
+    to paint car window
+        turn left
+        move
+        move
+        turn right
+        move
+        paint color blue
+        move 
+        times 7
+}
+Milestone 4: 
+    to paint car doors 1
+    move 4 times
+    turn left
+    paint and move 2 times
+    move
+    flip right
+    move
+    turn left
+    move 1 time
+    move 
+    turn right
+    move
+    paint color black
+    move
+    turn right
+    paint color black
+    move move paint color black 2 times
+    turn right
+    move
+    paint color black 
+}
+Milestone 5:
+    to paint car body
+    paint color grey
+    move 
+    paint color red move times 20
+}

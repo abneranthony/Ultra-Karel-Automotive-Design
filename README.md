@@ -2,6 +2,8 @@
 
 This project utilizes the Ultra Karel programming environment to make a multi-layered visual of a car. Unlike standard graphics libraries, this project required managing specific Karel API methods to handle object dimensions and positioning on the plane. 
 
+<img width="400" height="402" alt="image" src="https://github.com/user-attachments/assets/65a18192-bf37-4a36-9188-e60d50c02555" />
+
 Geometric Layering: Developed a "back-to-front" strategy to ensure wheels and windows are correctly layered over the car. 
 Precision Coordinates: Calculated exact (x, y) values to maintain the car's proportions across a 2D canvas. 
 Color Logic: Implemented hex code and string-based color values to distinguish different automotive components.
